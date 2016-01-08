@@ -71,7 +71,7 @@ function msg_valid(msg)
   end
 
   if msg.from.id == our_id then
-    print('\27[36mNot valid: Msg from our id\27[39m')
+    print('\27[36mNot valid: Msg from 165346398\27[39m')
     return false
   end
 
